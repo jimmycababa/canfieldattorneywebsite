@@ -22,6 +22,8 @@
 			'small-to-xlarge':  '(min-width: 481px) and (max-width: 1680px)'
 		});
 
+		
+
 	// Stops animations/transitions until the page has ...
 
 		// ... loaded.
