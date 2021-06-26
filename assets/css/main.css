@@ -1880,11 +1880,10 @@ button,
         padding: 3em 0 1em 0 ; } }
   
   
-  /* .logo-object{
-    width: 200px;
-    height: auto;
+    .logo-object{
+    text-align: center;
     
-  } */
+  } 
         
 
 /* Sidebar */
@@ -2192,6 +2191,10 @@ button,
   @media screen and (orientation: portrait) and (max-width: 480px) {
     #banner .image {
       max-height: 35vh; } }
+
+      .logo-object{
+        flex-wrap: wrap;
+      }
 
 /* Footer */
 #footer .copyright {
